@@ -6,11 +6,7 @@
 - 📚 I’m Informatics Engineering Student at <a href="https://unindra.ac.id/">Indraprasta PGRI University</a>
 <!-- - 📚 I’m Web Developer Student at <a href="https://www.hacktiv8.com/">Hacktiv8<a/> -->
 - 🌱 I’m currently learning about <strong>Web Development</strong>
-<!-- - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
-- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong> -->
-<!-- - ⚡ Fun fact: I can talk 24/7 about football. -->
-<!-- <p><em>Informatics Engineering Student at <a href="https://dinus.ac.id/">Dian Nuswantoro University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-</em></p> -->
+- 👧 I have an interest in a career as Software Engineering and proficient in creating mobile, web and game applications.
 
 ## How to reach me :
 <img src="https://img.shields.io/badge/erikarahmadewi50@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="erikarahmadewi50@gmail.com">
@@ -27,7 +23,7 @@
 <img src="https://img.shields.io/badge/Erika Rahmadewi-000000.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-[![GitHub erikaradw](https://img.shields.io/github/followers/erikaradw?label=follow&style=social)](https://github.com/erikaradw) -->
+<!-- [![GitHub erikaradw](https://img.shields.io/github/followers/erikaradw?label=follow&style=social)](https://github.com/erikaradw) -->
 
 <br>
 
