@@ -11,7 +11,6 @@
 
 ## 🌐 How to reach me :
 <img src="https://img.shields.io/badge/erikarahmadewi50@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="erikarahmadewi50@gmail.com">
-
 <a  href="https://www.instagram.com/erikaradw/">
 <img src="https://img.shields.io/badge/erikaradw-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
