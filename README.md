@@ -37,21 +37,21 @@
 <br>
 
 
-<h1>Github stats :bar_chart:</h1>
+<h1>bar_chart:Github Stats :</h1>
 
-<h2>Visitor's count :eyes:</h2>
+<h2>eyes:Visitor's count :</h2>
 <p><img src="https://profile-counter.glitch.me/{erikaradw}/count.svg" alt="erikaradw :: Visitor's Count" /></p>
 
 <br>
 
-## Profile Stats 🎹
+## 🎹 Profile Stats 
 ![erikaradw's github stats](https://github-readme-stats.vercel.app/api?username=erikaradw&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&theme=radical)-->
-## Top Langs 👅
+## 👅 Top Langs 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikaradw&langs_count=10&theme=tokyonight&layout=compact)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 <br>
