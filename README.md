@@ -1,7 +1,7 @@
 <h2> Hi, I'm Erika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## About Me
+## 💫 About Me:
 
 - 📚 I’m Informatics Engineering Student at <a href="https://unindra.ac.id/">Indraprasta PGRI University</a>
 <!-- - 📚 I’m Web Developer Student at <a href="https://www.hacktiv8.com/">Hacktiv8<a/> -->
@@ -9,9 +9,8 @@
 
 - 👧 I have an interest in a career as Software Engineering and proficient in creating mobile, web and game applications.
 
-## How to reach me :
+## 🌐 How to reach me :
 <img src="https://img.shields.io/badge/erikarahmadewi50@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="erikarahmadewi50@gmail.com">
-
 
 <a  href="https://www.instagram.com/erikaradw/">
 <img src="https://img.shields.io/badge/erikaradw-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
