@@ -6,6 +6,7 @@
 - 📚 I’m Informatics Engineering Student at <a href="https://unindra.ac.id/">Indraprasta PGRI University</a>
 <!-- - 📚 I’m Web Developer Student at <a href="https://www.hacktiv8.com/">Hacktiv8<a/> -->
 - 🌱 I’m currently learning about <strong>Web Development</strong>
+
 - 👧 I have an interest in a career as Software Engineering and proficient in creating mobile, web and game applications.
 
 ## How to reach me :
