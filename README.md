@@ -37,9 +37,9 @@
 <br>
 
 
-<h1>bar_chart:Github Stats :</h1>
+<h1>📊 Github Stats :</h1>
 
-<h2>eyes:Visitor's count :</h2>
+<h2>👀 Visitor's count :</h2>
 <p><img src="https://profile-counter.glitch.me/{erikaradw}/count.svg" alt="erikaradw :: Visitor's Count" /></p>
 
 <br>
